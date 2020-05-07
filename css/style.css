@@ -24,6 +24,11 @@
     width: 30%;
 
   }
+  /* immagini */
+  img{
+    height: 400px;
+    width: 100%;
+  }
   /* sconti */
   .sconto{
 
