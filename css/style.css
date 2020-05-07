@@ -6,6 +6,7 @@
 }
   /* intero contenitore */
   .contenitore{
+    background-color: rgba(183, 243, 237, 0.5);
   }
   /* blocchi */
   .blocco{
@@ -16,7 +17,6 @@
   /* oggetti */
   .oggetto{
     position: relative;
-    border:solid 2px black;
     margin: 20px;
     display: inline-block;
     height: 100%;
@@ -25,7 +25,7 @@
   }
   /* immagini */
   img{
-    height: 400px;
+    height: 50%;
     width: 100%;
   }
   /* sconti */
