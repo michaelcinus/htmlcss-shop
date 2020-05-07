@@ -6,14 +6,22 @@
 }
   /* intero contenitore */
   .contenitore{
-
+    border:solid 2px black;
   }
   /* blocchi */
   .blocco{
+    border:solid 2px black;
+    height: 50%;
+    width: 100%;
 
   }
   /* oggetti */
   .oggetto{
+    border:solid 2px black;
+    margin: 20px;
+    display: inline-block;
+    height: 100%;
+    width: 30%;
 
   }
   /* sconti */
