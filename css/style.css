@@ -4,25 +4,30 @@
   padding: 0;
   box-sizing: border-box;
 }
+
   /* intero contenitore */
   .contenitore{
+    text-align: center;
     background-color: rgba(183, 243, 237, 0.5);
   }
+
   /* blocchi */
   .blocco{
     height: 50%;
     width: 100%;
 
   }
+
   /* oggetti */
   .oggetto{
     position: relative;
-    margin: 20px;
+    margin: 20px 0.5%;
     display: inline-block;
     height: 100%;
-    width: 30%;
+    width: 27%;
 
   }
+
   /* immagini */
   img{
     height: 50%;
@@ -48,6 +53,7 @@
     background-color: red;
     border: solid 4px red;
   }
+
   /* cuore */
   .cuore{
     font-size: 3em;
